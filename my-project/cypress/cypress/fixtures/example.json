@@ -1,0 +1,10 @@
+{
+  "signup": {
+    "emailFeild": "#email-id",
+    "passwordFeild": "#password-id",
+    "userselectorFeild": "#select-user-id",
+    "checkFeild": "#check-me",
+    "submitFeild": "#btn-submit-id"
+
+  }
+}
